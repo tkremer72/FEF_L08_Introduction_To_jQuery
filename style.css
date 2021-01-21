@@ -1,0 +1,55 @@
+
+/* Style the body elements of my html page and set the overall margin to auto. */
+
+body{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: lightgrey;
+      margin: auto;
+}
+
+/* Style the header in my html file. */
+
+header {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: lightblue;
+      padding: 5px 5px 5px 5px;
+      text-align: center;
+      font-size: 2em;
+}
+
+/* Style the list items in my html file.  */
+
+li {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      color: black;
+}
+
+/* Style the paragraph elements of my html file. */
+
+p {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 25px;
+      font-weight: 600;
+}
+
+/* Style the keydown effect for the toggleClass in my js file. */
+
+.input{
+    color: red;
+}
+
+/* Style the labels for the input fields.  */
+
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    color: black;
+}
+
+/* Style the actual input field itself */
+input {
+    border: 1px inset darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
